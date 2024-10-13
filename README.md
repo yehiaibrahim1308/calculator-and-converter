@@ -4,7 +4,7 @@ This Python project provides a Scientific Calculator and Unit Converter using th
 
 
 # Scientific Calculator: 
-Supports basic arithmetic, advanced functions like trigonometry, logarithms, and constants (Pi, Euler's number). It includes features for clearing input and evaluating expressions, with error handling for invalid operations. 
+Supports basic arithmetic, advanced functions like trigonometry, logarithms, and constants (Pi, Euler's number). It includes features for clearing input and evaluating expressions, with error handling for invalid operations.  
 
 # Unit Converter 
 ## Temperature Converter:
